@@ -1,0 +1,2 @@
+# radomwarez
+Scripts random
