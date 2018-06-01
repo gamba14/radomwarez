@@ -1,6 +1,6 @@
 '''
     A "empty stack like automata" to determine whether an
-    string is accepted or not
+    string is accepted or not a
 '''
 '''
 inputs:
